@@ -56,9 +56,5 @@ void draw() {
       }
       System.out.println("Shape made");
     }
+  }
 }
-
-
-
-}
-
