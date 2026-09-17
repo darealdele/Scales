@@ -3,7 +3,6 @@ void setup() {
   noLoop(); //stops the draw() function from repeating
 }
 void draw() {
-  size(500,500);
   int loopCount = 0;
   boolean shift = true;
   int b = 20;
