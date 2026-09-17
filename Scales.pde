@@ -42,7 +42,6 @@ void draw() {
         endShape();      
         shift=true;
       }
-      System.out.println("Shape made");
     }
   }
 }
