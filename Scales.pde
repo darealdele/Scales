@@ -4,17 +4,6 @@ void setup() {
 }
 void draw() {
   size(500,500);
-  beginShape();
-  vertex(30,30);
-  vertex(30,50);
-  vertex(40,60);
-  vertex(50,60);
-  vertex(60,50);
-  vertex(60,30);
-  endShape();
-  beginShape();
-  bezier(30,30,40,10,50,10,60,30);
-  endShape();
   int loopCount = 0;
   boolean shift = true;
   int b = 20;
